@@ -1,2 +1,2 @@
-ENV['API_KEY'].env
-API_KEY=ENV['API_KEY']
+config.env
+API_KEY=secret
